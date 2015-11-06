@@ -10,6 +10,4 @@
 
 ##Resume
 
-```html
-<style="color:red">test</style>
-```
+<p style="color:red">test</p>
