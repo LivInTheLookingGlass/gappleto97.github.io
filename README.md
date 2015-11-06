@@ -9,3 +9,7 @@
 [Visualizer](https://gappleto97.github.io/visualizer), a web tool to view incoming Bitcoin transactions
 
 ##Resume
+
+```html
+<style="color:red">test</style>
+```
