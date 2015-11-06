@@ -10,4 +10,4 @@
 
 ##Resume
 
-<p style="color:red">test</p>
+Available by request
