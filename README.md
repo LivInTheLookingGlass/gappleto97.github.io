@@ -15,7 +15,7 @@
 
 Includes building software models of various pre-market products, testing pre-production hardware, making firmware patches for various OEMs, building computer systems, and doing emergency support work on-site.
 
-__Noteworthy Accomplishments:__<br>
+___Noteworthy Accomplishments:___<br>
 Awaiting permission to disclose
 
 <br>**Head Programmer/Programming Mentor, Team Cold Logic**<br>
@@ -23,7 +23,7 @@ Awaiting permission to disclose
 
 Includes building (and of course programming) a fully-functioning robot.  There is quite a bit of fundraising involved as well as (artistic, mechanical, and structural) design, and working with others, especially members of other teams.  This has been hundreds of hours of work.
 
-__Noteworthy Accomplishments:__
+___Noteworthy Accomplishments:___
 * Building three robots
 * Going to the quarter-finals for three regional competitions
 * Personally raised ~$1,800 during my time there
@@ -35,7 +35,7 @@ __Noteworthy Accomplishments:__
 ![](http://coldlogic3617.org/images/AerialAssist.jpg)
 
 #Education
-**Marquette Senior High School**<br>
+***Marquette Senior High School***<br>
 *graduated — September 2011 - May 2015*                                                                    
 * Member of National Honor Society
 * Outstanding Academic Achievement awards every semester
@@ -45,7 +45,7 @@ __Noteworthy Accomplishments:__
 * Graduated with Distinction
 * Advance Placement Scholar with Distinction
 
-**Northern Michigan University**<br>
+***Northern Michigan University***<br>
 *enrolled — September 2013 - current*
 * Computer Science major
 * 42 credit-hours accumulated
