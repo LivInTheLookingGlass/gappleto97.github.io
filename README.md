@@ -1,7 +1,4 @@
-# Gabe Appleton
---------------------
-
-##Current Projects
+#Current Projects
 
 [To be named](https://gappleto97.github.io/Senior-Project), a peer to peer bounty system for mass computations.
 
@@ -11,7 +8,7 @@
 
 ![](http://i.imgur.com/k9y20Eh.png)
 
-##Experience
+#Experience
 
 **Systems Intern (Undergrad), Intel NVM Solutions Group**<br>
 *Folsom, CA — 2015 - 2016*
@@ -35,7 +32,7 @@ __Noteworthy Accomplishments:__
 * Directing others in tasks (testing, wiring, pneumatics, etc)
 * Mentored three students
 
-##Education
+#Education
 **Marquette Senior High School**<br>
 *graduated — September 2011 - May 2015*                                                                    
 * Member of National Honor Society
@@ -53,4 +50,4 @@ __Noteworthy Accomplishments:__
 * 13 pending
 * Maintained a 4.0 GPA thus far
 
-##Bio
+#Bio
