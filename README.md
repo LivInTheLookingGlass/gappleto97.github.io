@@ -31,6 +31,8 @@ __Noteworthy Accomplishments:__
 * Fully programming one robot with minimal assistance
 * Directing others in tasks (testing, wiring, pneumatics, etc)
 * Mentored three students
+ 
+![](http://coldlogic3617.org/images/AerialAssist.jpg)
 
 #Education
 **Marquette Senior High School**<br>
