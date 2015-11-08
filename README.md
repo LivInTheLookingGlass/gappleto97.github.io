@@ -3,9 +3,13 @@
 
 ##Current Projects
 
-[To be named](https://gappleto97.github.io/Senior-Project), a peer to peer bounty system for running programs
+[To be named](https://gappleto97.github.io/Senior-Project), a peer to peer bounty system for mass computations.
 
-[Visualizer](https://gappleto97.github.io/visualizer), a web tool to view incoming Bitcoin transactions
+![](http://i.imgur.com/xCsjOto.png)
+
+[Visualizer](https://gappleto97.github.io/visualizer), a web tool to view incoming Bitcoin transactions, forked to provide garbage collection and optimizations.
+
+![](http://i.imgur.com/k9y20Eh.png)
 
 ##Experience
 
