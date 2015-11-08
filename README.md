@@ -33,7 +33,7 @@ __Noteworthy Accomplishments:__
 
 ##Education
 **Marquette Senior High School**<br>
-*enrolled — September 2011 - May 2015*                                                                    
+*graduated — September 2011 - May 2015*                                                                    
 * Member of National Honor Society
 * Outstanding Academic Achievement awards every semester
 * Tested out of many courses
