@@ -48,8 +48,6 @@ __Noteworthy Accomplishments:__
 **Northern Michigan University**<br>
 *enrolled — September 2013 - current*
 * Computer Science major
-* 29 credit-hours accumulated
-* 13 pending
+* 42 credit-hours accumulated
+* 8 pending
 * Maintained a 4.0 GPA thus far
-
-#Bio
