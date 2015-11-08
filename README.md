@@ -1,6 +1,5 @@
 # Gabe Appleton
-
-##Bio
+--------------------
 
 ##Current Projects
 
@@ -8,6 +7,49 @@
 
 [Visualizer](https://gappleto97.github.io/visualizer), a web tool to view incoming Bitcoin transactions
 
-##Resume
+##Experience
 
-Available by request
+######Systems Intern (Undergrad), Intel NVM Solutions Group
+*Folsom, CA — 2015 - 2016*
+
+Includes building software models of various pre-market products, testing pre-production hardware, making firmware patches for various OEMs, building computer systems, and doing emergency support work on-site.
+
+**Noteworthy Accomplishments:**
+
+Awaiting permission to disclose
+
+######Head Programmer/Programming Mentor, Team Cold Logic
+*Marquette, MI — 2013 - Current*
+
+Includes building (and of course programming) a fully-functioning robot.  There is quite a bit of fundraising involved as well as (artistic, mechanical, and structural) design, and working with others, especially members of other teams.  This has been hundreds of hours of work.
+
+**Noteworthy Accomplishments:**
+
+* Building three robots
+* Going to the quarter-finals for three regional competitions
+* Personally raised ~$1,800 during my time there
+  * Team raised ~$37,000 during same time
+* Fully programming one robot with minimal assistance
+* Directing others in tasks (testing, wiring, pneumatics, etc)
+* Mentored three students
+
+##Education
+######Marquette Senior High School
+*enrolled — September 2011 - May 2015*                                                                                       
+* Member of National Honor Society
+* Outstanding Academic Achievement awards every semester
+* Tested out of many courses
+* Passed five Advanced Placement Classes
+* Maintained a  4.1 (weighted) GPA
+* Graduated with Distinction
+* Advance Placement Scholar with Distinction
+
+######Northern Michigan University
+*enrolled — September 2013 - current*                                                                          
+
+* Computer Science major
+* 29 credit-hours accumulated
+* 13 pending
+* Maintained a 4.0 GPA thus far
+
+##Bio
