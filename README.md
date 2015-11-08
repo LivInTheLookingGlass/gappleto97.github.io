@@ -16,9 +16,9 @@
 Includes building software models of various pre-market products, testing pre-production hardware, making firmware patches for various OEMs, building computer systems, and doing emergency support work on-site.
 
 __Noteworthy Accomplishments:__<br>
-Awaiting permission to disclose<br>
+Awaiting permission to disclose
 
-**Head Programmer/Programming Mentor, Team Cold Logic**<br>
+<br>**Head Programmer/Programming Mentor, Team Cold Logic**<br>
 *Marquette, MI — 2013 - Current*
 
 Includes building (and of course programming) a fully-functioning robot.  There is quite a bit of fundraising involved as well as (artistic, mechanical, and structural) design, and working with others, especially members of other teams.  This has been hundreds of hours of work.
