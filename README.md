@@ -16,7 +16,7 @@
 Includes building software models of various pre-market products, testing pre-production hardware, making firmware patches for various OEMs, building computer systems, and doing emergency support work on-site.
 
 __Noteworthy Accomplishments:__<br>
-Awaiting permission to disclose
+Awaiting permission to disclose<br>
 
 **Head Programmer/Programming Mentor, Team Cold Logic**<br>
 *Marquette, MI — 2013 - Current*
