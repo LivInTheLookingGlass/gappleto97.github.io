@@ -49,5 +49,5 @@ __Noteworthy Accomplishments:__
 *enrolled — September 2013 - current*
 * Computer Science major
 * 42 credit-hours accumulated
-* 8 pending
+ * 8 pending
 * Maintained a 4.0 GPA thus far
