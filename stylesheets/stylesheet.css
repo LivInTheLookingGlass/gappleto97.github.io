@@ -103,7 +103,7 @@ footer p {
 
 a {
   text-decoration: none;
-  color: #870000;
+  color: #007edf;
   text-shadow: none;
 
   transition: color 0.5s ease;
@@ -197,7 +197,7 @@ blockquote {
 
 
 ul, ol, dl {
-  margin-bottom: 15px
+  margin-bottom: 0px
 }
 
 ul {
@@ -279,7 +279,7 @@ Full-Width Styles
   z-index: 10;
   padding: 10px 50px 10px 10px;
   color: #fff;
-  background: url('../images/blacktocat.png') #373737 no-repeat 95% 50%;
+  background: url('../images/blacktocat.png') #0090ff no-repeat 95% 50%;
   font-weight: 700;
   box-shadow: 0 0 10px rgba(0,0,0,.5);
   border-bottom-left-radius: 2px;
@@ -287,7 +287,12 @@ Full-Width Styles
 }
 
 #header_wrap {
-  background: #870000;
+  background: #212121;
+  background: -moz-linear-gradient(top, #373737, #212121);
+  background: -webkit-linear-gradient(top, #373737, #212121);
+  background: -ms-linear-gradient(top, #373737, #212121);
+  background: -o-linear-gradient(top, #373737, #212121);
+  background: linear-gradient(top, #373737, #212121);
 }
 
 #header_wrap .inner {
