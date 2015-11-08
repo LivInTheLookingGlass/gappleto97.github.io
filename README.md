@@ -35,7 +35,7 @@ ___Noteworthy Accomplishments:___
 ![](http://coldlogic3617.org/images/AerialAssist.jpg)
 
 #Education
-***Marquette Senior High School***<br>
+**Marquette Senior High School**<br>
 *graduated — September 2011 - May 2015*                                                                    
 * Member of National Honor Society
 * Outstanding Academic Achievement awards every semester
@@ -45,7 +45,7 @@ ___Noteworthy Accomplishments:___
 * Graduated with Distinction
 * Advance Placement Scholar with Distinction
 
-***Northern Michigan University***<br>
+**Northern Michigan University**<br>
 *enrolled — September 2013 - current*
 * Computer Science major
 * 42 credit-hours accumulated
